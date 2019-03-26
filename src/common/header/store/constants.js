@@ -1,0 +1,1 @@
+export const CHANGE_PAGE = 'header/CHANGE_PAGE';
